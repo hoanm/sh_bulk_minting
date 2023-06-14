@@ -1,0 +1,4 @@
+name,image,animation_url,description,receiving address,attributes
+test image,ipfs://QmdrVRHqEKrQxgTTQb7XUde9aqaafyT6q1HCqDgM1U7K74,,test image description,aura17n858c4urvenkf7edjs4uumudej3ekyv432e34,"[{""trait_type"":""da"",""value"":""vang""},{""trait_type"":""toc"",""value"":""trang""}]"
+test video,ipfs://QmWpo72qRvupzN9f2E8yndoNnyfw8ni3A4aMaDL1NjVxCK,ipfs://QmXpUsBNMnBs7xEJ8NvfrVwAEeKrktbCALkeLiKjGYGtxV,test video description,aura1crh5z8cy0znnj8u48jlttr5h4as8n336jj0gxr,"[{""trait_type"":""da"",""value"":""den""},{""trait_type"":""toc"",""value"":""do""}]"
+test audio,ipfs://QmUYmEimjLE6gPnC7gyUCHVcdNjTwuBHgG9gCLoPzAf9b5,ipfs://QmU1CUR5Rf4RswVWFdsgfUWjAPSydZW7ZfYxwxXhXdzoU4,test audio description,aura17n858c4urvenkf7edjs4uumudej3ekyv432e34,"[{""trait_type"":""da"",""value"":""trang""},{""trait_type"":""toc"",""value"":""den""}]"
